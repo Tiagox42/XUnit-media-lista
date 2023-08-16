@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLista", "MediaLista.csproj", "{08194F38-189F-4EAE-A305-6981942BDB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaListaTeste", "..\MediaListaTeste\MediaListaTeste.csproj", "{F591E438-B8EB-4E18-8C9B-B9D13E55EDE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08194F38-189F-4EAE-A305-6981942BDB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08194F38-189F-4EAE-A305-6981942BDB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08194F38-189F-4EAE-A305-6981942BDB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08194F38-189F-4EAE-A305-6981942BDB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F591E438-B8EB-4E18-8C9B-B9D13E55EDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F591E438-B8EB-4E18-8C9B-B9D13E55EDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F591E438-B8EB-4E18-8C9B-B9D13E55EDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F591E438-B8EB-4E18-8C9B-B9D13E55EDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FAEFCE0-DFD4-4E40-BB43-4F8CDF74889E}
+	EndGlobalSection
+EndGlobal
