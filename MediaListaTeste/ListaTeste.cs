@@ -1,6 +1,7 @@
 using MediaLista;
 using System;
 using Xunit;
+using System.Collections.Generic;
 
 namespace MediaListaTeste
 {
@@ -9,7 +10,8 @@ namespace MediaListaTeste
         [Fact]
         public void Media()
         {
-            Assert.Equal(12, Lista.Media(10, 20, 2, 5, 23));
+            List<int> inteiros = new List<int> { 10, 20, 2, 5, 23 };
+            Assert.Equal(12, Lista.Media(inteiros));
         }
     }
 }
